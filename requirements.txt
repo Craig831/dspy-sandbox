@@ -1,0 +1,4 @@
+dotenv
+dspy
+mlflow>=2.20
+ujson
